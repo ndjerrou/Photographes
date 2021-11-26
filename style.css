@@ -1,0 +1,16 @@
+section {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+article {
+  width: 400px;
+}
+li {
+  cursor: pointer;
+}
+span {
+  padding: 5px;
+  margin-right: 5px;
+}
